@@ -1,21 +1,37 @@
-<h2> Olá! </h2>
+# Hi there! I'm Gustavo Guterres 👋
 
-Aprendendo sobre tecnologia e seus possíveis desdobramentos.
+**Senior Data Analyst & AI Engineer** | Turning complex ambiguity into scalable, data-driven clarity.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrg&theme=highcontrast&hide_border=true)
+I specialize in building end-to-end data architectures, implementing Generative AI solutions, and driving strategic business decisions. With a strong foundation in software engineering and cloud infrastructure, I don't just analyze data! I build the pipelines, automate the workflows, and deploy the AI agents that make data actionable.
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavohrg&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+## What I Do
+* **Data Engineering & Architecture:** Designing near real-time (D-1) automated pipelines, transforming manual reporting processes into scalable Looker dashboard ecosystems using BigQuery and Cloud Storage.
+* **Applied Generative AI:** Developing and deploying LLM-powered agents (LangChain, Mistral, Qwen, OpenAI) to automate customer routing and internal knowledge retrieval, drastically reducing operational bottlenecks.
+* **Strategic Analytics:** Running advanced cohort analyses and ROI optimizations to directly influence marketing investments and business strategy.
 
+## Tech Stack & Tools
 
-<h2> Estudando atualmente <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h2>
-<a href= https://github.com/gustavohrg?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/gustavohrg?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/gustavohrg?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/gustavohrg?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/gustavohrg?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/gustavohrg?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/gustavohrg?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+### Languages & Data Processing 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h2> Contato </h2>
-<a href = 'https://www.linkedin.com/in/gustavo-guterres/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://api.whatsapp.com/send?phone=5541987576924&text=Ol%C3%A1!%20Encontrei%20seu%20perfil%20no%20github'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg"/></a> 
+### Cloud Infrastructure (GCP & AWS)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+*Specifically: GCP (BigQuery, App Engine, Cloud Run, Cloud Storage) & AWS (EC2, S3, Containers)*
+
+### AI, Analytics & Version Control
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guterres)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavohrg@live.com)
